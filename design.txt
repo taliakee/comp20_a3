@@ -1,0 +1,10 @@
+Name of Business: 
+    Feast Fresh
+
+What business does: 
+    Provide fresh/organic meal recommendations or takeout service from 
+    local restaurants based on user's dietary preferences 
+
+Target demographic:
+    Young adults (20s - 30s)
+    Works for families as well with kids/parents with dietary restrictions
