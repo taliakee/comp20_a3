@@ -1,3 +1,5 @@
+URL: 
+
 Name of Business: 
     Feast Fresh
 
@@ -8,3 +10,11 @@ What business does:
 Target demographic:
     Young adults (20s - 30s)
     Works for families as well with kids/parents with dietary restrictions
+
+
+1. What was the easiest part of this assignment?
+    Looking up how to create a navbar, and creating a fixed header + footer
+
+
+2. What was the most challenging part of this assignment?
+    Remembering the order of precedence for styling (external css vs internal vs inline)

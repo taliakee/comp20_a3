@@ -59,3 +59,28 @@
     margin-right: auto;
     display: block;
 }
+
+.takeout_svc {
+  text-align: center;
+  font-family: 'Montserrat';
+}
+
+.takeout_pic {
+
+}
+  .takeout_pic img {
+    width: 700px; 
+    display: block; 
+    margin-right: auto; 
+    margin-left: auto; 
+    margin-top: 2em;
+
+  }
+  .takeout_pic img:hover{
+    opacity: 0.5;
+  }
+
+footer {
+  text-align: center; 
+  margin-top: 5em;
+}
